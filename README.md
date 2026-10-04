@@ -1,14 +1,9 @@
 <div align="center" dir="auto">
-  <a href="https://github.com/abdochiguer">
-    <img src="./assets/middleLogo.svg" width="180" height="180" alt="Abderrahmane Chiguer" style="max-width: 180px; height: auto;">
-  </a>
-</div>
-
-<div align="center" dir="auto">
-  <a href="mailto:cabdorahmane@gmail.com"><img src="./assets/email.svg" width="22%" height="110" alt="Email abdochiguer" style="max-width: 100%; height: auto; max-height: 110px;"></a>
-  <a href="https://www.linkedin.com/in/abderrahmane-chiguer-470857313" rel="nofollow"><img src="./assets/linkedin.svg" width="22%" height="110" alt="LinkedIn abdochiguer" style="max-width: 100%; height: auto; max-height: 110px;"></a>
-  <a href="https://abdochiguer.github.io" rel="nofollow"><img src="./assets/web.svg" width="22%" height="110" alt="ePortfolio abdochiguer" style="max-width: 100%; height: auto; max-height: 110px;"></a>
-  <a href="https://www.instagram.com/abdorahmanechiguer/" rel="nofollow"><img src="./assets/instagram.svg" width="22%" height="110" alt="Instagram abdochiguer" style="max-width: 100%; height: auto; max-height: 110px;"></a>
+  <a href="mailto:cabdorahmane@gmail.com"><img src="./assets/email.svg" width="19%" height="120" alt="Email abdochiguer" style="max-width: 100%; height: auto; max-height: 120px; vertical-align: middle;"></a>
+  <a href="https://www.linkedin.com/in/abderrahmane-chiguer-470857313" rel="nofollow"><img src="./assets/linkedin.svg" width="19%" height="120" alt="LinkedIn abdochiguer" style="max-width: 100%; height: auto; max-height: 120px; vertical-align: middle;"></a>
+  <a href="https://github.com/abdochiguer"><img src="./assets/middleLogo.svg" width="22%" height="130" alt="Abderrahmane Chiguer" style="max-width: 100%; height: auto; max-height: 130px; vertical-align: middle;"></a>
+  <a href="https://abdochiguer.github.io" rel="nofollow"><img src="./assets/web.svg" width="19%" height="120" alt="ePortfolio abdochiguer" style="max-width: 100%; height: auto; max-height: 120px; vertical-align: middle;"></a>
+  <a href="https://www.instagram.com/abdorahmanechiguer/" rel="nofollow"><img src="./assets/instagram.svg" width="19%" height="120" alt="Instagram abdochiguer" style="max-width: 100%; height: auto; max-height: 120px; vertical-align: middle;"></a>
 </div>
 
 <div align="center" dir="auto">
